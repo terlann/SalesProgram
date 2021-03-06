@@ -1,0 +1,13 @@
+C:\Users\qurbanovtm\Desktop\SalesProgram\SalesProgram\bin\Debug\SalesProgram.exe.config
+C:\Users\qurbanovtm\Desktop\SalesProgram\SalesProgram\bin\Debug\SalesProgram.exe
+C:\Users\qurbanovtm\Desktop\SalesProgram\SalesProgram\bin\Debug\SalesProgram.pdb
+C:\Users\qurbanovtm\Desktop\SalesProgram\SalesProgram\obj\Debug\SalesProgram.csprojResolveAssemblyReference.cache
+C:\Users\qurbanovtm\Desktop\SalesProgram\SalesProgram\obj\Debug\SalesProgram.Properties.Resources.resources
+C:\Users\qurbanovtm\Desktop\SalesProgram\SalesProgram\obj\Debug\SalesProgram.csproj.GenerateResource.Cache
+C:\Users\qurbanovtm\Desktop\SalesProgram\SalesProgram\obj\Debug\SalesProgram.exe
+C:\Users\qurbanovtm\Desktop\SalesProgram\SalesProgram\obj\Debug\SalesProgram.pdb
+C:\Users\qurbanovtm\Desktop\SalesProgram\SalesProgram\bin\Debug\EntityFramework.dll
+C:\Users\qurbanovtm\Desktop\SalesProgram\SalesProgram\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\qurbanovtm\Desktop\SalesProgram\SalesProgram\bin\Debug\EntityFramework.xml
+C:\Users\qurbanovtm\Desktop\SalesProgram\SalesProgram\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\qurbanovtm\Desktop\SalesProgram\SalesProgram\obj\Debug\SalesProgram.FormSales.resources
